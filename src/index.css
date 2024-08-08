@@ -5,3 +5,7 @@
 *{
     min-width: 0;
 }
+.rdp-root {
+    --rdp-accent-color: #BEF264; 
+    --rdp-accent-background-color: gray; 
+  }
